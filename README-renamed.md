@@ -30,3 +30,5 @@ Enter the following IP address in a web browser, log-in with username `rokudev` 
 Take any of the .zip files and upload/install to the developer application installer. Your Roku device will load the sample channel instantly.
 
 phase 4 ops check (samples)
+
+Commit all test line
