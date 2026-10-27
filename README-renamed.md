@@ -32,3 +32,5 @@ Take any of the .zip files and upload/install to the developer application insta
 phase 4 ops check (samples)
 
 Commit all test line
+
+push all test
